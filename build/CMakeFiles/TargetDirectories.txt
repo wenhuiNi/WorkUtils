@@ -1,0 +1,3 @@
+/mnt/hdd/wenhuini/workstations/WorkUtils/build/CMakeFiles/rebuild_cache.dir
+/mnt/hdd/wenhuini/workstations/WorkUtils/build/CMakeFiles/edit_cache.dir
+/mnt/hdd/wenhuini/workstations/WorkUtils/build/CMakeFiles/cuda_abs.dir
